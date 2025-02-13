@@ -1,4 +1,3 @@
-```markdown
 # Scaffolding a Microsoft Visual Studio with Unity Solution for Lamina1 Spaces-Compatible Applications
 
 This guide outlines the steps to scaffold a Unity project integrated with Microsoft Visual Studio to build a Lamina1 Spaces-compatible application.
