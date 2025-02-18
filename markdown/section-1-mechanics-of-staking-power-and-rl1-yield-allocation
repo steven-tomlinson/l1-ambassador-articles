@@ -1,0 +1,57 @@
+Section 1: The Mechanics of Staking Power and RL1 Yield Allocation
+
+Understanding Staking Power in Lamina1
+
+Staking in Lamina1 is designed to incentivize network participation while maintaining economic sustainability. Unlike traditional staking models that provide fixed APY (Annual Percentage Yield), Lamina1’s system is dynamic, adjusting rewards based on network-wide staking activity, token lock-up duration, and total staking power.
+
+The core mechanism that determines staking rewards is staking power, which is calculated based on:
+
+￼
+
+Where:
+   •   Staked L1 is the amount of L1 tokens committed to the staking contract.
+   •   Multiplier is determined by the staking duration (e.g., 365-day stakes have a higher multiplier than 90-day stakes).
+
+The higher the staking power, the greater the share of RL1 rewards a staker receives. However, as more users stake L1, the total staking power of the network increases, which in turn affects individual reward distribution.
+
+RL1 Yield Allocation: A Dynamic Rewards System
+
+The total RL1 rewards pool for stakers is predefined in each rewards cycle (90 days). This means that RL1 emissions are fixed for each cycle, but individual rewards fluctuate based on staking participation.
+
+Formula for RL1 Allocation:
+￼
+
+This formula highlights two key mechanics:
+	1.	Proportional Distribution: The more staking power a participant has relative to the network, the greater their share of RL1 rewards.
+	2.	Dilution Effect: As more L1 is staked, the total staking power increases, which reduces the share of RL1 rewards per individual staker.
+
+Example Scenario:
+   •   Assume the total RL1 rewards pool for stakers is 30 million RL1 in one cycle.
+   •   If early in the cycle, only 10 million L1 is staked, then staking 100,000 L1 would yield a large portion of the RL1 pool.
+   •   Later in the cycle, if 50 million L1 is staked, then the same 100,000 L1 stake earns significantly less RL1.
+
+This explains why staking early in a cycle is more advantageous, as it allows users to capture a larger share of rewards before dilution increases.
+
+The Role of Staking Multipliers in Yield Optimization
+
+Lamina1 implements staking multipliers to reward long-term commitment. The longer L1 is staked, the higher the multiplier applied to staking power. This creates an incentive for users to lock their tokens for extended durations.
+
+Staking Duration	Multiplier Applied
+30 Days	x30
+90 Days	x90
+180 Days	x180
+365 Days	x365
+
+Impact of Staking Multipliers on Rewards
+	1.	Longer stakes receive a larger RL1 allocation per L1 staked.
+	2.	Shorter stakes provide more flexibility but lower staking power.
+	3.	A mix of different staking durations can optimize liquidity while maintaining high rewards.
+
+Thus, staking for longer periods is the most efficient way to maximize rewards, provided the staker does not require immediate liquidity.
+
+Key Takeaways:
+
+✅ Staking Power determines the share of RL1 rewards a user receives.
+✅ The more L1 is staked across the network, the lower the yield per staker.
+✅ Longer staking periods provide higher multipliers, increasing RL1 earnings.
+✅ Early staking in a cycle results in higher yields compared to late staking.
