@@ -1,0 +1,61 @@
+Section 2: Why Early Staking Produces Higher Rewards
+
+The Early Staker Advantage
+
+One of the most important dynamics in Lamina1’s staking system is the advantage of staking earlier in the rewards cycle. Due to proportional RL1 reward distribution, early stakers tend to earn a higher share of rewards than those who stake later, even if both stakers commit the same amount of L1 for the same duration.
+
+This phenomenon occurs due to two main factors:
+	1.	Lower Competition at the Start of a Cycle – Early stakers compete with fewer participants, meaning they receive a larger share of the RL1 rewards pool.
+	2.	Fixed RL1 Issuance per Cycle – The amount of RL1 distributed does not increase based on participation; it is a fixed pool that is shared among all stakers, meaning late stakers receive a diluted share.
+
+How RL1 Rewards Are Allocated Over Time
+
+Lamina1’s staking rewards are not based on fixed APY percentages. Instead, RL1 rewards are distributed dynamically, meaning that rewards are calculated as a percentage of total staking power at a given time.
+
+￼
+
+If a user stakes early in a cycle, they receive RL1 from the very first day, whereas a late staker only begins earning RL1 from the day they stake. This means that early stakers accumulate RL1 rewards for a longer period, leading to significantly higher total earnings.
+
+Example: Early vs. Late Staking
+
+Scenario Setup
+   •   Total RL1 allocated to stakers this cycle: 30 million RL1
+   •   Total L1 staked at the start of the cycle: 5 million L1
+   •   Total L1 staked by Day 75: 50 million L1
+   •   Staking amount per participant: 100,000 L1
+   •   Staking duration: 365 days (365x multiplier)
+
+Staker	Stake Day	Total L1 Staked When Entering	Staking Power	RL1 Earned by Day 90
+Alice (Early Staker)	Day 1	5M	36.5M	1,000,000 RL1
+Bob (Late Staker)	Day 75	50M	36.5M	250,000 RL1
+
+Analysis
+   •   Alice, who staked early, earns rewards for all 90 days and benefits from a larger share of the RL1 pool before dilution increases.
+   •   Bob, who staked late, only earns RL1 for 15 days, and by that time, the total staking power has increased significantly, reducing his share of the pool.
+
+By the end of the cycle, Alice’s total RL1 earnings are 4x higher than Bob’s, even though they both staked the same amount of L1 for the same duration.
+
+Why Late Stakers Earn Less, Even with the Same Staking Period
+
+Late stakers experience a compounded disadvantage due to:
+
+1. Missing Out on Earlier Rewards
+   •   If a user stakes on Day 1, they start earning immediately.
+   •   If a user stakes on Day 75, they miss out on 75% of the cycle’s rewards.
+
+2. Increased Staking Competition
+   •   More stakers enter the network over time, increasing total staking power.
+   •   Since RL1 is distributed proportionally, late stakes get a smaller percentage of the same reward pool.
+
+3. No Retroactive Rewards
+   •   RL1 rewards are not retroactive—staking later does not give access to past emissions.
+   •   The sooner a stake is placed, the more total RL1 it can accumulate over time.
+
+Key Takeaways:
+
+✅ Early stakes earn more because they collect RL1 rewards for a longer period.
+✅ Late stakes earn less due to dilution and missing out on early rewards.
+✅ Staking at the start of a cycle provides the highest total RL1 yield.
+✅ The more participants enter staking, the lower the yield for later stakes.
+
+This highlights the importance of staking strategy, which we will explore in the next section.
