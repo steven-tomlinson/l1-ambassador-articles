@@ -81,8 +81,12 @@ But those RL1 emissions aren’t just about personal yield. They’re time-relea
 ### 3.1 The Mechanics of Max-Staking
 At the core of Lamina1’s staking architecture is a deceptively simple mechanic: the longer you commit, the more staking power you generate. While many protocols cap lock-up periods at a year, Lamina1 allows up to 3,650 days—a full decade. This isn’t just a flex. It’s a feature designed to enable a long-term, low-velocity economic foundation.
 ### 3.2 Time-Locked Value and Network Security
+While most networks rely on miners or validators to secure consensus, Lamina1’s staking mechanism adds an economic dimension to network stability. The more L1 is staked, the harder it is to manipulate supply, drain liquidity, or disrupt governance through flash speculation.
+Time-locking value also functions as a buffer against volatility. With large percentages of supply locked for years at a time, circulating L1 becomes scarcer. This isn’t just about price—it’s about economic predictability for developers and builders. When you know the available supply can’t suddenly flood the market, you can build systems with more confidence.
 ### 3.3 Decentralized Capital Formation
-
+In traditional systems, reserves are centrally controlled—held in banks, treasuries, or venture war chests. Lamina1 flips that model on its head. By encouraging individuals to lock L1 for long periods, it turns the entire network into a self-funded reserve. No single entity controls the capital. Instead, value is distributed, staked, and released according to a protocol schedule that’s transparent and incorruptible.
+This decentralized capital formation is more than a design choice—it’s a philosophical stance. It says: “We don’t need permission to build value. We just need time, coordination, and belief.”
+And that’s where the next phase begins. Because once you’ve built the reserve, the question becomes: what will you do with what gets unlocked?
 ## 4. RL1 Emissions and Daily Unlocks
 ### 4.1 The Role of RL1 as a Yield Instrument
 RL1 is more than just a staking reward—it’s a time-coded emission schedule that transforms long-term commitment into daily liquidity. Every staked L1 token, based on its staking power and duration, entitles the holder to a proportional drip of RL1, released day by day.
